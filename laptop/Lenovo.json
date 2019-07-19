@@ -1,6 +1,14 @@
 {
     "Lenovo": [
         {
+            "Audio": "Realtek ALC3232",
+            "Author": "Sniki",
+            "CPU": "i5-4300U",
+            "Device": "Thinkpad T440s",
+            "Link": "https://github.com/Snikii/Lenovo-Thinkpad-T440S",
+            "OS": "10.13 10.14"
+        },
+        {
             "Audio": "Realtek ALC236",
             "Author": "黑果小兵",
             "CPU": "i7-8565U",
